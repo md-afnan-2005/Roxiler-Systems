@@ -1,0 +1,25 @@
+.form-card {
+    background: white;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-card label {
+    display: block;
+    margin-top: 10px;
+}
+
+.form-card input,
+.form-card textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+}
+
+.error {
+    color: red;
+    margin-top: 8px;
+}

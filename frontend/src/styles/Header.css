@@ -1,0 +1,20 @@
+.app-header {
+    background: #006d77;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-header a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.btn-link {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
