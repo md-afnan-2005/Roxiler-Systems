@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 import Header from "./components/Header";
-import Login from "./auth/Login";
-import Register from "./auth/Register";
+import Login from "./auths/Login";
+import Register from "./auths/Register";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 import AdminDashboard from "./components/Admin/AdminDashboard";
