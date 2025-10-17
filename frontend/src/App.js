@@ -5,9 +5,9 @@ import Login from "./auths/Login";
 import Register from "./auths/Register";
 import ProtectedRoute from "./components/ProtectedRoute";
 
-import AdminDashboard from "./components/Admin/AdminDashboard";
-import AdminUsers from "./components/Admin/AdminUsers";
-import AdminStores from "./components/Admin/AdminStores";
+import AdminDashboard from "./components/admin/AdminDashboard";
+import AdminUsers from "./components/admin/AdminUsers";
+import AdminStores from "./components/admin/AdminStores";
 import StoresList from "./components/User/StoresList";
 import OwnerDashboard from "./components/Owner/OwnerDashboard";
 
